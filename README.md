@@ -1,5 +1,3 @@
-# Customer_Churn_Prediction_Using_Streamlit
-
 # 📊 Telecom Customer Churn Prediction - Uganda Market
 
 ## 🎯 Project Overview
